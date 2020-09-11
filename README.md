@@ -1,6 +1,6 @@
 ## TWISTER-OS has been released.
-It has both Windows 10 and MacOS user interface.
-Download from here: https://raspbian-x.com/
+It has many themes you can "twist" to, including macOS, Windows, Windows 95, and more!
+Download from here: https://twisteros.com/
 
 > If you still want those download links, see [here](https://github.com/Botspot/Raspbian-X/tree/2cbabb55deac8f9e996ea7c5f527471f5d564c84).
 
